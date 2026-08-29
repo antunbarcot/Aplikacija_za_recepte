@@ -1,6 +1,5 @@
 <h1 align="center">🍽️ React Native Recipe App 🍽️</h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
 
 A full-stack recipe app built with **Expo / React Native** on the frontend and **Express + PostgreSQL (Drizzle ORM)** on the backend. Recipes are pulled live from **TheMealDB**, and a normalized Postgres database is used to seed extra recipe data and to store each user's favorites.
 
